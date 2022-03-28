@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>My Top Projects</h2>
 
-[ALPERSAN DeFi Bank DApp](https://github.com/alperemreeren/alpersan-defi-stakingapp)
+[ALPERSAN Decentralized Bank DApp](https://github.com/alperemreeren/alpersan-defi-stakingapp)
 <br>
 [ALPERSAN Manager](https://github.com/alperemreeren/alpersan-manager)
 <br>
