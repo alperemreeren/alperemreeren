@@ -11,9 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 <h2>My Top Projects</h2>
 
-[ALPERSAN Decentralized Bank DApp](https://github.com/alperemreeren/alpersan-defi-stakingapp)
+**[ALPERSAN Decentralized Bank DApp](https://github.com/alperemreeren/alpersan-defi-stakingapp)**
 <br>
-[ALPERSAN Manager](https://github.com/alperemreeren/alpersan-manager)
+**[ALPERSAN Manager](https://github.com/alperemreeren/alpersan-manager)**
 <br>
-[Magic Memory](https://github.com/alperemreeren/memory-game)
+**[EconoYour](https://github.com/alperemreeren/econoyour)**
+<br>
+**[Magic Memory](https://github.com/alperemreeren/memory-game)**
 <br>
