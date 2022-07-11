@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alperemreeren
-- 👀 I’m interested in Cloud, DeFi, Blockchain, Mobile and Web Development, and Data Science
+- 👀 I’m interested in Cloud, DeFi, Blockchain, Web Development, and AI
 - 🌱 I’m currently learning TypeScript, Angular, Blockchain Development and Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through LinkedIn: https://www.linkedin.com/in/alper-emre-eren/
