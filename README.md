@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Emre Eren</h1>
-<h3 align="center">A passionate frontend developer from Poland / Turkey</h3>
+<h3 align="center">A passionate Full-Stack & Web3 developer from Poland / Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperemreeren" alt="alperemreeren" /></a> </p>
 
